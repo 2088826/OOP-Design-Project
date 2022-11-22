@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace OOP_Design_Project
 {
-    public partial class Screen1_2 : Form
+    public partial class Screen1_1Form : Form
     {
-        public Screen1_2()
+        public Screen1_1Form()
         {
             InitializeComponent();
         }

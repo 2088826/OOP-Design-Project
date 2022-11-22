@@ -58,7 +58,7 @@
             this.Controls.Add(this.logInButton);
             this.Controls.Add(this.signUpButton);
             this.Name = "Screen1Form";
-            this.Text = "Form1";
+            this.Text = "Welcome";
             this.ResumeLayout(false);
 
         }
