@@ -1,6 +1,6 @@
 ﻿namespace OOP_Design_Project
 {
-    partial class Screen1_2
+    partial class Screen1_1Form
     {
         /// <summary>
         /// Required designer variable.
@@ -132,7 +132,7 @@
             this.goBackButton.Text = "Go Back to Main Menu";
             this.goBackButton.UseVisualStyleBackColor = true;
             // 
-            // Screen1_2
+            // Screen1_1Form
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -148,8 +148,8 @@
             this.Controls.Add(this.passwordLabel);
             this.Controls.Add(this.firstNameLabel);
             this.Controls.Add(this.signUpConfirmationButton);
-            this.Name = "Screen1_2";
-            this.Text = "Screen1_2";
+            this.Name = "Screen1_1Form";
+            this.Text = "Sign up";
             this.ResumeLayout(false);
             this.PerformLayout();
 
