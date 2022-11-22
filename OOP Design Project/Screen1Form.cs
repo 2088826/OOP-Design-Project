@@ -1,8 +1,8 @@
 namespace OOP_Design_Project
 {
-    public partial class Form1 : Form
+    public partial class Screen1Form : Form
     {
-        public Form1()
+        public Screen1Form()
         {
             InitializeComponent();
         }
